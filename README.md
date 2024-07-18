@@ -107,4 +107,5 @@ You can test the model with the following sample messages:
 
 - Running the Gradio app in Colab requires setting `share=True` in the `launch()` method to create a public URL.
 - If you encounter errors, make sure to set `debug=True` in the `launch()` method to display errors in the Colab notebook.
+- Sources used: Module 21 - Tranformers - Gradio Activites, Xpert Learning Assistant, & https://www.gradio.app/docs/gradio/interface
 
